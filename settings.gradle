@@ -1,0 +1,2 @@
+include ':app', ':okintelligentrecyclerview'
+rootProject.name='OKAndroid'

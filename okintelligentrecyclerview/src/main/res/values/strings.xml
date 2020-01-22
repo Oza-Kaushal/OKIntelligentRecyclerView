@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OKIntelligentRecyclerView</string>
+    <!-- .............................................. Recyclerview Empty Holder .............................................. -->
+    <string name="no_search_result_available">No search result available</string>
+    <string name="no_data_available">No data available</string>
+
+</resources>

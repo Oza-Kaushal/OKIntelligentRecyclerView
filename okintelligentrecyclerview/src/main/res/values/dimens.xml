@@ -1,0 +1,77 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="size1dp">1sp</dimen>
+    <dimen name="size2dp">2sp</dimen>
+    <dimen name="size3dp">3sp</dimen>
+    <dimen name="size4dp">4sp</dimen>
+    <dimen name="size5dp">5sp</dimen>
+    <dimen name="size6dp">6sp</dimen>
+    <dimen name="size7dp">7sp</dimen>
+    <dimen name="size8dp">8sp</dimen>
+    <dimen name="size9dp">9sp</dimen>
+    <dimen name="size10dp">10sp</dimen>
+    <dimen name="size11dp">11sp</dimen>
+    <dimen name="size12dp">12sp</dimen>
+    <dimen name="size13dp">13sp</dimen>
+    <dimen name="size14dp">14sp</dimen>
+    <dimen name="size15dp">15sp</dimen>
+    <dimen name="size16dp">16sp</dimen>
+    <dimen name="size17dp">17sp</dimen>
+    <dimen name="size18dp">18sp</dimen>
+    <dimen name="size19dp">19sp</dimen>
+    <dimen name="size20dp">20sp</dimen>
+    <dimen name="size21dp">21sp</dimen>
+    <dimen name="size22dp">22sp</dimen>
+    <dimen name="size23dp">23sp</dimen>
+    <dimen name="size24dp">24sp</dimen>
+    <dimen name="size25dp">25sp</dimen>
+    <dimen name="size26dp">26sp</dimen>
+    <dimen name="size27dp">27sp</dimen>
+    <dimen name="size28dp">28sp</dimen>
+    <dimen name="size29dp">29sp</dimen>
+    <dimen name="size30dp">30sp</dimen>
+    <dimen name="size31dp">31sp</dimen>
+    <dimen name="size32dp">32sp</dimen>
+    <dimen name="size33dp">33sp</dimen>
+    <dimen name="size34dp">34sp</dimen>
+    <dimen name="size35dp">35sp</dimen>
+    <dimen name="size36dp">36sp</dimen>
+    <dimen name="size37dp">37sp</dimen>
+    <dimen name="size38dp">38sp</dimen>
+    <dimen name="size39dp">39sp</dimen>
+    <dimen name="size40dp">40sp</dimen>
+    <dimen name="size41dp">41sp</dimen>
+    <dimen name="size42dp">42sp</dimen>
+    <dimen name="size43dp">43sp</dimen>
+    <dimen name="size44dp">44sp</dimen>
+    <dimen name="size45dp">45sp</dimen>
+    <dimen name="size46dp">46sp</dimen>
+    <dimen name="size47dp">47sp</dimen>
+    <dimen name="size48dp">48sp</dimen>
+    <dimen name="size49dp">49sp</dimen>
+    <dimen name="size50dp">50sp</dimen>
+    <dimen name="size51dp">51sp</dimen>
+    <dimen name="size52dp">52sp</dimen>
+    <dimen name="size53dp">53sp</dimen>
+    <dimen name="size54dp">54sp</dimen>
+    <dimen name="size55dp">55sp</dimen>
+    <dimen name="size56dp">56sp</dimen>
+    <dimen name="size57dp">57sp</dimen>
+    <dimen name="size58dp">58sp</dimen>
+    <dimen name="size59dp">59sp</dimen>
+    <dimen name="size60dp">60sp</dimen>
+    <dimen name="size80dp">80sp</dimen>
+    <dimen name="size100dp">100sp</dimen>
+    <dimen name="size108dp">108sp</dimen>
+    <dimen name="size120dp">120sp</dimen>
+    <dimen name="size150dp">150sp</dimen>
+    <dimen name="size200dp">200sp</dimen>
+
+
+    <dimen name="drawer_width">320sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="design_fab_image_size" tools:override="true">56dp</dimen>
+
+</resources>
